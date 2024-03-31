@@ -7,7 +7,12 @@
 <br>
 
 # Description: 
-This is a simple banking program that I made to practice my knowledge of classes in C++ and various concepts of Object-Oriented Programming.
+This is a simple banking program that I made to practice my knowledge of classes in C++ and various concepts of Object-Oriented Programming such as;
+- Classes and Objects
+- Encapsulation
+- Constructors and Destructors
+- Member Functions
+- Access Specifiers
 
 # Version History:
 # V-1.00: (Date)
