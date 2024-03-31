@@ -15,7 +15,7 @@ This is a simple banking program that I made to practice my knowledge of classes
 - Access Specifiers
 
 # Version History:
-# V-1.00: (Date)
+# V-1.00: (3/12/2024)
 Initial Version <br>
 Uploaded to Github
 
